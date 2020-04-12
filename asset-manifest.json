@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/oksr/react-first-app/static/css/main.24ba2fc9.chunk.css",
+    "main.js": "/oksr/react-first-app/static/js/main.a99ba3c7.chunk.js",
+    "main.js.map": "/oksr/react-first-app/static/js/main.a99ba3c7.chunk.js.map",
+    "runtime-main.js": "/oksr/react-first-app/static/js/runtime-main.3d04bde6.js",
+    "runtime-main.js.map": "/oksr/react-first-app/static/js/runtime-main.3d04bde6.js.map",
+    "static/js/2.cb9dd1e6.chunk.js": "/oksr/react-first-app/static/js/2.cb9dd1e6.chunk.js",
+    "static/js/2.cb9dd1e6.chunk.js.map": "/oksr/react-first-app/static/js/2.cb9dd1e6.chunk.js.map",
+    "index.html": "/oksr/react-first-app/index.html",
+    "precache-manifest.5088fe3b31aeb5761997fbe02546248d.js": "/oksr/react-first-app/precache-manifest.5088fe3b31aeb5761997fbe02546248d.js",
+    "service-worker.js": "/oksr/react-first-app/service-worker.js",
+    "static/css/main.24ba2fc9.chunk.css.map": "/oksr/react-first-app/static/css/main.24ba2fc9.chunk.css.map",
+    "static/js/2.cb9dd1e6.chunk.js.LICENSE.txt": "/oksr/react-first-app/static/js/2.cb9dd1e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d04bde6.js",
+    "static/js/2.cb9dd1e6.chunk.js",
+    "static/css/main.24ba2fc9.chunk.css",
+    "static/js/main.a99ba3c7.chunk.js"
+  ]
+}
